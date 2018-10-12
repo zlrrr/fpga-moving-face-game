@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Mon Sep 10 13:58:02 2018
+# Process ID: 11332
+# Current directory: E:/program/vivado_workspace/vga_exp/vga_exp.runs/dcm_25m_synth_1
+# Command line: vivado.exe -log dcm_25m.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dcm_25m.tcl
+# Log file: E:/program/vivado_workspace/vga_exp/vga_exp.runs/dcm_25m_synth_1/dcm_25m.vds
+# Journal file: E:/program/vivado_workspace/vga_exp/vga_exp.runs/dcm_25m_synth_1\vivado.jou
+#-----------------------------------------------------------
+source dcm_25m.tcl -notrace

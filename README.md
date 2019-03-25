@@ -2,6 +2,6 @@
 
 a simple VGA game using verilog
 
-## enviroment:
+## environment:
 
 ## description:
